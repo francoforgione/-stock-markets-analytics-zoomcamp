@@ -1,5 +1,5 @@
 
-#Introduccion al Curso
+# Introduccion al Curso
 
 
 - [Youtube Recording](https://www.youtube.com/watch?v=O9XpN41cHmE) el link de youtube de la primera clase envivo 
